@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langgraph
+langchain
+langchain-google-genai
+langchain-huggingface
+langchain-qdrant
+tavily-python
+qdrant-client
+sentence-transformers
+# dspy-ai is no longer needed
+google-generativeai
+pydantic
